@@ -1,0 +1,500 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Public", "Public", "{229DFD04-F97F-451D-A3F2-E233F6BDDC0C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\index.html = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\index.html
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\principal.html = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\principal.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{D07F8830-813F-48EF-B88D-8B3F2BC4F32F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\estilos.css = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\estilos.css
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\index.css = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\index.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{AF25E5D2-F476-43E6-82BC-239039556C73}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\libs\google-fonts.css = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\libs\google-fonts.css
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\libs\materialize.min.css = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\libs\materialize.min.css
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\libs\selectize.default.css = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\libs\selectize.default.css
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\libs\tooltipster.bundle.min.css = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\css\libs\tooltipster.bundle.min.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{740871A8-7638-4E1E-A662-E152F3734591}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "roboto", "roboto", "{68ECFBC0-50A6-4C9D-98A6-E0F330449C0E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Bold.eot = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Bold.eot
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Bold.ttf = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Bold.ttf
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Bold.woff = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Bold.woff
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Bold.woff2 = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Bold.woff2
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Light.eot = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Light.eot
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Light.ttf = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Light.ttf
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Light.woff = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Light.woff
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Light.woff2 = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Light.woff2
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Medium.eot = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Medium.eot
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Medium.ttf = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Medium.ttf
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Medium.woff = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Medium.woff
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Medium.woff2 = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Medium.woff2
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Regular.eot = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Regular.eot
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Regular.ttf = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Regular.ttf
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Regular.woff = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Regular.woff
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Regular.woff2 = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Regular.woff2
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Thin.eot = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Thin.eot
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Thin.ttf = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Thin.ttf
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Thin.woff = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Thin.woff
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Thin.woff2 = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\roboto\Roboto-Thin.woff2
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "material-design-icons", "material-design-icons", "{6EA41E88-780D-4DBA-BC39-6B92944C352C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\LICENSE.txt = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\LICENSE.txt
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\Material-Design-Icons.eot = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\Material-Design-Icons.eot
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\Material-Design-Icons.svg = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\Material-Design-Icons.svg
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\Material-Design-Icons.ttf = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\Material-Design-Icons.ttf
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\Material-Design-Icons.woff = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\Material-Design-Icons.woff
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\Material-Design-Icons.woff2 = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\fonts\material-design-icons\Material-Design-Icons.woff2
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{687A3579-7246-4F98-83EA-47C3E6A162D4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\img\slide1.png = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\img\slide1.png
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\img\slide2.png = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\img\slide2.png
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\img\slide3.png = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\img\slide3.png
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\img\spinner.gif = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\img\spinner.gif
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{3AF09B4C-C1A6-4496-86A2-7B576C058E59}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\frase.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\frase.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\jquery.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\jquery.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\main.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\main.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\materialize.min.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\materialize.min.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\placar.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\placar.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\selectize.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\selectize.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\slider.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\slider.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\tooltipster.bundle.min.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\js\tooltipster.bundle.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "slick", "slick", "{1247A695-F696-4C82-BE08-46A8A6539DA3}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\ajax-loader.gif = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\ajax-loader.gif
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\config.rb = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\config.rb
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick-theme.css = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick-theme.css
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick-theme.less = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick-theme.less
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick-theme.scss = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick-theme.scss
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick.css = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick.css
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick.less = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick.less
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick.min.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick.min.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick.scss = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\slick.scss
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{922D9B4E-5832-409E-B900-8FE947E487A7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\fonts\slick.eot = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\fonts\slick.eot
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\fonts\slick.svg = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\fonts\slick.svg
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\fonts\slick.ttf = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\fonts\slick.ttf
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\fonts\slick.woff = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\public\slick\fonts\slick.woff
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servidor", "Servidor", "{A9F010E7-83C2-4619-B0EC-49DF333A4B62}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\data.db = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\data.db
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\README.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\server.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\server.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "node_modules", "node_modules", "{417DA915-84F2-4A42-A6EA-27F0B15812FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "config", "config", "{2940E91A-5F63-4217-AAB1-588B9A805673}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\config\database.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\config\database.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\config\express.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\config\express.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "app", "app", "{3B79D945-BDEB-4D08-894B-3BDE1AE35326}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{F11BAD7F-5A43-4C75-9298-AB52D49183F9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\app\api\frases.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\app\api\frases.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\app\api\placar.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\app\api\placar.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "routes", "routes", "{9E47CBC4-E152-4B55-94E4-5EFCB414B481}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\app\routes\frases.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\app\routes\frases.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\app\routes\placar.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\app\routes\placar.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "body-parser", "body-parser", "{3D76ED61-1259-41D7-AFCD-F21BA060ED70}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "consign", "consign", "{2B49D434-871B-43E9-B495-6DC63B1D3A0C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\consign\consign.rar = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\consign\consign.rar
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "express", "express", "{C79772C3-9FF1-463B-B389-EBD14825723F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\express\express.rar = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\express\express.rar
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nedb", "nedb", "{DD1D25B1-ED67-4AD4-9D25-992B2577F6D9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\nedb\nedb.rar = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\nedb\nedb.rar
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "node_modules", "node_modules", "{CD270DB6-DE45-412F-9443-0B9087ADFBF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{54C726CC-94BC-44E2-9EE4-3C39D2CB4457}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\lib\read.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\lib\read.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bytes", "bytes", "{64C76EFD-DCFB-44EA-ACE5-53F41AC63C59}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\bytes\History.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\bytes\History.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\bytes\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\bytes\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\bytes\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\bytes\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\bytes\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\bytes\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\bytes\Readme.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\bytes\Readme.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "debug", "debug", "{47D5F9B5-5010-4771-927C-932367E77F35}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\.jshintrc = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\.jshintrc
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\.npmignore = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\.npmignore
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\bower.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\bower.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\browser.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\browser.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\component.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\component.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\debug.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\debug.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\History.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\History.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\Makefile = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\Makefile
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\Readme.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\Readme.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "depd", "depd", "{483B2A17-B25B-485A-B5C2-72B4FD54EA1D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\History.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\History.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\Readme.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\Readme.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "http-errors", "http-errors", "{E8FEA212-DF8F-4931-8EB0-AC4937EC2E0B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "iconv-lite", "iconv-lite", "{4830786A-D340-472C-9D6C-547F52323AFC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\.npmignore = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\.npmignore
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\.travis.yml = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\.travis.yml
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\Changelog.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\Changelog.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "on-finished", "on-finished", "{FADEA34C-F387-4FD8-AD64-C7E775702E82}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "qs", "qs", "{DB623A8F-563B-4A99-B6BF-3AFBDEB87128}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\.eslintignore = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\.eslintignore
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\.eslintrc = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\.eslintrc
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\.jscs.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\.jscs.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\CHANGELOG.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\CHANGELOG.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\CONTRIBUTING.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\CONTRIBUTING.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\package.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "type-is", "type-is", "{D75F4754-A289-4410-B2C5-46D555EA9EB7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "raw-body", "raw-body", "{B9791693-7050-4411-937D-4C5580D6C8F9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "content-type", "content-type", "{0A9DAB31-6455-4564-A86B-C3359D55D281}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\content-type\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\content-type\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\content-type\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\content-type\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\content-type\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\content-type\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\content-type\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\content-type\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\content-type\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\content-type\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "node_modules", "node_modules", "{76CAA7DA-9AA2-4C44-AA4F-96843A497F37}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ms", "ms", "{2DA21C0E-A942-457C-8202-7FBF1BBEA426}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\.npmignore = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\.npmignore
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\History.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\History.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\debug\node_modules\ms\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{D86EFDC1-2C53-4EB2-8F76-A4EC31B3C776}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "browser", "browser", "{7494D55F-6D39-4468-B26A-E0ACF8EEEE59}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\lib\browser\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\lib\browser\index.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "compat", "compat", "{9DA8F17C-0D98-483A-A158-0CA71D4BC48F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\lib\compat\buffer-concat.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\lib\compat\buffer-concat.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\lib\compat\callsite-tostring.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\lib\compat\callsite-tostring.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\lib\compat\event-listener-count.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\lib\compat\event-listener-count.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\lib\compat\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\depd\lib\compat\index.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "node_modules", "node_modules", "{992F4B72-EE4D-441F-9B1E-950AB834CD34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "inherits", "inherits", "{907DEBE4-92B0-4D33-A807-C7121A85B1EF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\inherits.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\inherits.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\inherits_browser.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\inherits_browser.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\README.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\test.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\inherits\test.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "setprototypeof", "setprototypeof", "{FC5FF9A3-4E48-404E-8CFF-F178F3A7E8F6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\setprototypeof\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\setprototypeof\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\setprototypeof\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\setprototypeof\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\setprototypeof\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\setprototypeof\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\setprototypeof\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\setprototypeof\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "statuses", "statuses", "{62EA43A9-3124-4F35-B766-EF6D75440235}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\codes.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\codes.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\http-errors\node_modules\statuses\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "encodings", "encodings", "{C0B43C69-5A85-49B2-92AE-3519BF55A70D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\dbcs-codec.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\dbcs-codec.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\dbcs-data.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\dbcs-data.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\internal.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\internal.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\sbcs-codec.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\sbcs-codec.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\sbcs-data-generated.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\sbcs-data-generated.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\sbcs-data.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\sbcs-data.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\utf16.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\utf16.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\utf7.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\utf7.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{7088C043-35A8-45A1-A4C1-1C7E29FA7C40}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\lib\bom-handling.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\lib\bom-handling.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\lib\extend-node.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\lib\extend-node.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\lib\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\lib\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\lib\streams.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\lib\streams.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tables", "tables", "{57C841C8-43B9-4909-B703-6CDCA2A78289}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\big5-added.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\big5-added.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\cp936.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\cp936.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\cp949.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\cp949.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\cp950.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\cp950.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\eucjp.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\eucjp.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\gb18030-ranges.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\gb18030-ranges.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\gbk-added.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\gbk-added.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\shiftjis.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\iconv-lite\encodings\tables\shiftjis.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "node_modules", "node_modules", "{C57AE65F-49BA-4428-8D03-A6C44C3A7AD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ee-first", "ee-first", "{418C27DD-AA1F-4E3F-8B8D-946726FF315A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\node_modules\ee-first\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\node_modules\ee-first\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\node_modules\ee-first\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\node_modules\ee-first\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\node_modules\ee-first\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\node_modules\ee-first\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\node_modules\ee-first\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\on-finished\node_modules\ee-first\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dist", "dist", "{AFDBE72A-FC08-4587-8D50-67C6831EE5F8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\dist\qs.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\dist\qs.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{1D359514-194A-4B6F-914F-6F11FA7B1ED6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\lib\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\lib\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\lib\parse.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\lib\parse.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\lib\stringify.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\lib\stringify.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\lib\utils.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\lib\utils.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{0941F458-6B4D-4E3D-A67A-531E240FA5F5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\test\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\test\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\test\parse.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\test\parse.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\test\stringify.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\test\stringify.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\test\utils.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\qs\test\utils.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "node_modules", "node_modules", "{40EFB572-CBA0-438C-88C9-36B5100E2A6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unpipe", "unpipe", "{2C024A4A-2F9D-421F-B6A9-339079E6F46F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\node_modules\unpipe\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\node_modules\unpipe\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\node_modules\unpipe\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\node_modules\unpipe\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\node_modules\unpipe\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\node_modules\unpipe\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\node_modules\unpipe\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\node_modules\unpipe\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\node_modules\unpipe\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\raw-body\node_modules\unpipe\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "node_modules", "node_modules", "{47F2A389-30C1-491F-B45C-E8F1BE7D28B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "media-typer", "media-typer", "{3D6D245D-001E-4CEB-B66E-EBAF46A6C9A9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\media-typer\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\media-typer\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\media-typer\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\media-typer\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\media-typer\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\media-typer\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\media-typer\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\media-typer\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\media-typer\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\media-typer\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mime-types", "mime-types", "{BF1C2609-190C-40FB-8F22-A419D2D25EE8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "node_modules", "node_modules", "{E868F047-8D5C-4848-BE7E-202B98FF6C4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mime-db", "mime-db", "{0FCE4246-B6FC-460B-8D96-C5501E06E20E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\db.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\db.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\HISTORY.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\HISTORY.md
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\index.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\index.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\LICENSE = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\LICENSE
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\package.json = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\package.json
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\README.md = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "types", "types", "{81924408-45A7-4821-9508-C52F27008F73}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\lib\types\json.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\lib\types\json.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\lib\types\raw.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\lib\types\raw.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\lib\types\text.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\lib\types\text.js
+		..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\lib\types\urlencoded.js = ..\..\..\..\OneDrive\Documentos\Mattheus\Alura\Javascript\Jquery I\Jquery-typer\servidor\node_modules\body-parser\lib\types\urlencoded.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D07F8830-813F-48EF-B88D-8B3F2BC4F32F} = {229DFD04-F97F-451D-A3F2-E233F6BDDC0C}
+		{AF25E5D2-F476-43E6-82BC-239039556C73} = {D07F8830-813F-48EF-B88D-8B3F2BC4F32F}
+		{740871A8-7638-4E1E-A662-E152F3734591} = {229DFD04-F97F-451D-A3F2-E233F6BDDC0C}
+		{68ECFBC0-50A6-4C9D-98A6-E0F330449C0E} = {740871A8-7638-4E1E-A662-E152F3734591}
+		{6EA41E88-780D-4DBA-BC39-6B92944C352C} = {740871A8-7638-4E1E-A662-E152F3734591}
+		{687A3579-7246-4F98-83EA-47C3E6A162D4} = {229DFD04-F97F-451D-A3F2-E233F6BDDC0C}
+		{3AF09B4C-C1A6-4496-86A2-7B576C058E59} = {229DFD04-F97F-451D-A3F2-E233F6BDDC0C}
+		{1247A695-F696-4C82-BE08-46A8A6539DA3} = {229DFD04-F97F-451D-A3F2-E233F6BDDC0C}
+		{922D9B4E-5832-409E-B900-8FE947E487A7} = {1247A695-F696-4C82-BE08-46A8A6539DA3}
+		{417DA915-84F2-4A42-A6EA-27F0B15812FE} = {A9F010E7-83C2-4619-B0EC-49DF333A4B62}
+		{2940E91A-5F63-4217-AAB1-588B9A805673} = {A9F010E7-83C2-4619-B0EC-49DF333A4B62}
+		{3B79D945-BDEB-4D08-894B-3BDE1AE35326} = {A9F010E7-83C2-4619-B0EC-49DF333A4B62}
+		{F11BAD7F-5A43-4C75-9298-AB52D49183F9} = {3B79D945-BDEB-4D08-894B-3BDE1AE35326}
+		{9E47CBC4-E152-4B55-94E4-5EFCB414B481} = {3B79D945-BDEB-4D08-894B-3BDE1AE35326}
+		{3D76ED61-1259-41D7-AFCD-F21BA060ED70} = {417DA915-84F2-4A42-A6EA-27F0B15812FE}
+		{2B49D434-871B-43E9-B495-6DC63B1D3A0C} = {417DA915-84F2-4A42-A6EA-27F0B15812FE}
+		{C79772C3-9FF1-463B-B389-EBD14825723F} = {417DA915-84F2-4A42-A6EA-27F0B15812FE}
+		{DD1D25B1-ED67-4AD4-9D25-992B2577F6D9} = {417DA915-84F2-4A42-A6EA-27F0B15812FE}
+		{CD270DB6-DE45-412F-9443-0B9087ADFBF7} = {3D76ED61-1259-41D7-AFCD-F21BA060ED70}
+		{54C726CC-94BC-44E2-9EE4-3C39D2CB4457} = {3D76ED61-1259-41D7-AFCD-F21BA060ED70}
+		{64C76EFD-DCFB-44EA-ACE5-53F41AC63C59} = {CD270DB6-DE45-412F-9443-0B9087ADFBF7}
+		{47D5F9B5-5010-4771-927C-932367E77F35} = {CD270DB6-DE45-412F-9443-0B9087ADFBF7}
+		{483B2A17-B25B-485A-B5C2-72B4FD54EA1D} = {CD270DB6-DE45-412F-9443-0B9087ADFBF7}
+		{E8FEA212-DF8F-4931-8EB0-AC4937EC2E0B} = {CD270DB6-DE45-412F-9443-0B9087ADFBF7}
+		{4830786A-D340-472C-9D6C-547F52323AFC} = {CD270DB6-DE45-412F-9443-0B9087ADFBF7}
+		{FADEA34C-F387-4FD8-AD64-C7E775702E82} = {CD270DB6-DE45-412F-9443-0B9087ADFBF7}
+		{DB623A8F-563B-4A99-B6BF-3AFBDEB87128} = {CD270DB6-DE45-412F-9443-0B9087ADFBF7}
+		{D75F4754-A289-4410-B2C5-46D555EA9EB7} = {CD270DB6-DE45-412F-9443-0B9087ADFBF7}
+		{B9791693-7050-4411-937D-4C5580D6C8F9} = {CD270DB6-DE45-412F-9443-0B9087ADFBF7}
+		{0A9DAB31-6455-4564-A86B-C3359D55D281} = {CD270DB6-DE45-412F-9443-0B9087ADFBF7}
+		{76CAA7DA-9AA2-4C44-AA4F-96843A497F37} = {47D5F9B5-5010-4771-927C-932367E77F35}
+		{2DA21C0E-A942-457C-8202-7FBF1BBEA426} = {76CAA7DA-9AA2-4C44-AA4F-96843A497F37}
+		{D86EFDC1-2C53-4EB2-8F76-A4EC31B3C776} = {483B2A17-B25B-485A-B5C2-72B4FD54EA1D}
+		{7494D55F-6D39-4468-B26A-E0ACF8EEEE59} = {D86EFDC1-2C53-4EB2-8F76-A4EC31B3C776}
+		{9DA8F17C-0D98-483A-A158-0CA71D4BC48F} = {D86EFDC1-2C53-4EB2-8F76-A4EC31B3C776}
+		{992F4B72-EE4D-441F-9B1E-950AB834CD34} = {E8FEA212-DF8F-4931-8EB0-AC4937EC2E0B}
+		{907DEBE4-92B0-4D33-A807-C7121A85B1EF} = {992F4B72-EE4D-441F-9B1E-950AB834CD34}
+		{FC5FF9A3-4E48-404E-8CFF-F178F3A7E8F6} = {992F4B72-EE4D-441F-9B1E-950AB834CD34}
+		{62EA43A9-3124-4F35-B766-EF6D75440235} = {992F4B72-EE4D-441F-9B1E-950AB834CD34}
+		{C0B43C69-5A85-49B2-92AE-3519BF55A70D} = {4830786A-D340-472C-9D6C-547F52323AFC}
+		{7088C043-35A8-45A1-A4C1-1C7E29FA7C40} = {4830786A-D340-472C-9D6C-547F52323AFC}
+		{57C841C8-43B9-4909-B703-6CDCA2A78289} = {C0B43C69-5A85-49B2-92AE-3519BF55A70D}
+		{C57AE65F-49BA-4428-8D03-A6C44C3A7AD8} = {FADEA34C-F387-4FD8-AD64-C7E775702E82}
+		{418C27DD-AA1F-4E3F-8B8D-946726FF315A} = {C57AE65F-49BA-4428-8D03-A6C44C3A7AD8}
+		{AFDBE72A-FC08-4587-8D50-67C6831EE5F8} = {DB623A8F-563B-4A99-B6BF-3AFBDEB87128}
+		{1D359514-194A-4B6F-914F-6F11FA7B1ED6} = {DB623A8F-563B-4A99-B6BF-3AFBDEB87128}
+		{0941F458-6B4D-4E3D-A67A-531E240FA5F5} = {DB623A8F-563B-4A99-B6BF-3AFBDEB87128}
+		{40EFB572-CBA0-438C-88C9-36B5100E2A6A} = {B9791693-7050-4411-937D-4C5580D6C8F9}
+		{2C024A4A-2F9D-421F-B6A9-339079E6F46F} = {40EFB572-CBA0-438C-88C9-36B5100E2A6A}
+		{47F2A389-30C1-491F-B45C-E8F1BE7D28B2} = {D75F4754-A289-4410-B2C5-46D555EA9EB7}
+		{3D6D245D-001E-4CEB-B66E-EBAF46A6C9A9} = {47F2A389-30C1-491F-B45C-E8F1BE7D28B2}
+		{BF1C2609-190C-40FB-8F22-A419D2D25EE8} = {47F2A389-30C1-491F-B45C-E8F1BE7D28B2}
+		{E868F047-8D5C-4848-BE7E-202B98FF6C4C} = {BF1C2609-190C-40FB-8F22-A419D2D25EE8}
+		{0FCE4246-B6FC-460B-8D96-C5501E06E20E} = {E868F047-8D5C-4848-BE7E-202B98FF6C4C}
+		{81924408-45A7-4821-9508-C52F27008F73} = {54C726CC-94BC-44E2-9EE4-3C39D2CB4457}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62898901-CE61-4303-BBB3-DC60D071CB76}
+	EndGlobalSection
+EndGlobal
